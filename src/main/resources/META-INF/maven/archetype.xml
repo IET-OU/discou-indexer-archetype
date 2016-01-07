@@ -1,0 +1,9 @@
+<archetype>
+  <id>discou-indexer-archetype</id>
+  <sources>
+    <source>src/main/java/Indexer.java</source>
+  </sources>
+  <testSources>
+    <source>src/test/java/IndexerTest.java</source>
+  </testSources>
+</archetype>
