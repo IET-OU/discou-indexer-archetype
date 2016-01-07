@@ -5,7 +5,7 @@ To use it, be sure you included the [DiscOU Maven Repository](https://github.com
 
 To setup a project:
 ```
-$  mvn archetype:generate -DarchetypeGroupId=discou -DarchetypeArtifactId=discou-indexer-archetype \\
+$  mvn archetype:generate -DarchetypeGroupId=discou -DarchetypeArtifactId=discou-indexer-archetype \
 -DarchetypeVersion=0.0.2-SNAPSHOT -DgroupId=my-group -DartifactId=my-artifact -Dversion=1-SNAPSHOT 
 ```
 
